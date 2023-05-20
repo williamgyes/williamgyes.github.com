@@ -1,0 +1,3 @@
+[submodule "myblog/themes/moments"]
+	path = myblog/themes/moments
+	url = https://github.com/FarseaSH/hugo-theme-moments
